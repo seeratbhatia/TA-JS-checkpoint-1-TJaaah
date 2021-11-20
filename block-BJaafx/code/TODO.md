@@ -9,7 +9,7 @@ while (i < 3) {
   i++;
 }
 ```
-
+nn
 3. Write a function named `getEvenSum` that accepts a parameter `max`. Return the sum of all even numbers. The value of max should default to 10.
 
 4. Write a function named `getOddSum` that accepts a parameter `max`. Return the sum of all odd numbers. The value of max should default to 10.
